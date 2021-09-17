@@ -1,11 +1,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Old-Camel&show_icons=true&theme=dark))](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ```text
-TypeScript   6 hrs 27 mins   ███████▒░░░░░░░░░░░░░░░░░   29.23 % 
-Java         5 hrs 52 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.58 % 
-JSON         2 hrs 12 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-JavaScript   2 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-XML          1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Java         8 hrs 11 mins   ███████▒░░░░░░░░░░░░░░░░░   29.84 % 
+TypeScript   7 hrs 7 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.94 % 
+YAML         2 hrs 32 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+JSON         2 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+JavaScript   1 hr 59 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 ```
 <!--END_SECTION:waka-->
 
